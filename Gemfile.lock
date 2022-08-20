@@ -1,0 +1,24 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.3)
+    method_source (1.0.0)
+    pry (0.14.1)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+    rack (2.2.4)
+    webrick (1.7.0)
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  pry
+  rack
+  webrick
+
+RUBY VERSION
+   ruby 3.1.2p20
+
+BUNDLED WITH
+   2.3.18
